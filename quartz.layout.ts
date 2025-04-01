@@ -11,8 +11,8 @@ export const sharedPageComponents: SharedLayout = {
 //      GitHub: "https://github.com/jackyzha0/quartz",
 //     "π": "https://en.wikipedia.org/wiki/Weird_fiction",
 //    },
-  }),
-}
+//  }),
+//}
 
 // components for pages that display a single page (e.g. a single note)
 export const defaultContentPageLayout: PageLayout = {
