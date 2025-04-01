@@ -14,7 +14,7 @@ export default ((opts?: Options) => {
     return (
       <footer class={`${displayClass ?? ""}`}>
         <p>
-          "π": "https://en.wikipedia.org/wiki/Weird_fiction"
+          "π"
         </p>
         <ul>
           {Object.entries(links).map(([text, link]) => (
